@@ -1,0 +1,508 @@
+﻿Statement_Group,Line_Item,Fiscal_Year,Value,Unit,Source_Row
+Income statement,On-Trade,2017,9180.0,EUR mn,11
+Income statement,On-Trade,2018,9330.0,EUR mn,11
+Income statement,On-Trade,2019,9740.0,EUR mn,11
+Income statement,On-Trade,2020,5920.0,EUR mn,11
+Income statement,On-Trade,2021,7350.0,EUR mn,11
+Income statement,On-Trade,2022,10120.0,EUR mn,11
+Income statement,On-Trade,2023,10640.0,EUR mn,11
+Income statement,On-Trade,2024,10410.0,EUR mn,11
+Income statement,Off-Trade,2017,10870.0,EUR mn,12
+Income statement,Off-Trade,2018,11180.0,EUR mn,12
+Income statement,Off-Trade,2019,11890.0,EUR mn,12
+Income statement,Off-Trade,2020,12210.0,EUR mn,12
+Income statement,Off-Trade,2021,12470.0,EUR mn,12
+Income statement,Off-Trade,2022,13940.0,EUR mn,12
+Income statement,Off-Trade,2023,14560.0,EUR mn,12
+Income statement,Off-Trade,2024,14250.0,EUR mn,12
+Income statement,Digital B2B (eB2B),2017,120.0,EUR mn,13
+Income statement,Digital B2B (eB2B),2018,210.0,EUR mn,13
+Income statement,Digital B2B (eB2B),2019,380.0,EUR mn,13
+Income statement,Digital B2B (eB2B),2020,640.0,EUR mn,13
+Income statement,Digital B2B (eB2B),2021,930.0,EUR mn,13
+Income statement,Digital B2B (eB2B),2022,1290.0,EUR mn,13
+Income statement,Digital B2B (eB2B),2023,1610.0,EUR mn,13
+Income statement,Digital B2B (eB2B),2024,1820.0,EUR mn,13
+Income statement,Export & Other,2017,1710.0,EUR mn,14
+Income statement,Export & Other,2018,1750.0,EUR mn,14
+Income statement,Export & Other,2019,1.96,EUR mn,14
+Income statement,Export & Other,2020,950.0,EUR mn,14
+Income statement,Export & Other,2021,1190.0,EUR mn,14
+Income statement,Export & Other,2022,1500.0,EUR mn,14
+Income statement,Export & Other,2023,1400.0,EUR mn,14
+Income statement,Export & Other,2024,1160.0,EUR mn,14
+Income statement,Total Revenue (incl. Excise),2017,25790.0,EUR mn,15
+Income statement,Total Revenue (incl. Excise),2018,26490.0,EUR mn,15
+Income statement,Total Revenue (incl. Excise),2019,28200.0,EUR mn,15
+Income statement,Total Revenue (incl. Excise),2020,23360.0,EUR mn,15
+Income statement,Total Revenue (incl. Excise),2021,25950.0,EUR mn,15
+Income statement,Total Revenue (incl. Excise),2022,31480.0,EUR mn,15
+Income statement,Total Revenue (incl. Excise),2023,33090.0,EUR mn,15
+Income statement,Total Revenue (incl. Excise),2024,32430.0,EUR mn,15
+Income statement,Excise Tax Expense,2017,-3910.0,EUR mn,16
+Income statement,Excise Tax Expense,2018,-4020.0,EUR mn,16
+Income statement,Excise Tax Expense,2019,-4230.0,EUR mn,16
+Income statement,Excise Tax Expense,2020,-3640.0,EUR mn,16
+Income statement,Excise Tax Expense,2021,-4010.0,EUR mn,16
+Income statement,Excise Tax Expense,2022,-4630.0,EUR mn,16
+Income statement,Excise Tax Expense,2023,-4880.0,EUR mn,16
+Income statement,Excise Tax Expense,2024,-4790.0,EUR mn,16
+Income statement,Net Revenue,2017,21880.0,EUR mn,17
+Income statement,Net Revenue,2018,22470.0,EUR mn,17
+Income statement,Net Revenue,2019,23970.0,EUR mn,17
+Income statement,Net Revenue,2020,19720.0,EUR mn,17
+Income statement,Net Revenue,2021,21940.0,EUR mn,17
+Income statement,Net Revenue,2022,26850.0,EUR mn,17
+Income statement,Net Revenue,2023,28210.0,EUR mn,17
+Income statement,Net Revenue,2024,27640.0,EUR mn,17
+Income statement,Net Revenue Growth Y/Y,2018,0.027000000000000003,ratio,18
+Income statement,Net Revenue Growth Y/Y,2019,0.067,ratio,18
+Income statement,Net Revenue Growth Y/Y,2020,-0.177,ratio,18
+Income statement,Net Revenue Growth Y/Y,2021,0.113,ratio,18
+Income statement,Net Revenue Growth Y/Y,2022,0.22399999999999998,ratio,18
+Income statement,Net Revenue Growth Y/Y,2023,0.051,ratio,18
+Income statement,Net Revenue Growth Y/Y,2024,-0.02,ratio,18
+Income statement,Net Revenue,2017,21880.0,EUR mn,19
+Income statement,Net Revenue,2018,22470.0,EUR mn,19
+Income statement,Net Revenue,2019,23970.0,EUR mn,19
+Income statement,Net Revenue,2020,19720.0,EUR mn,19
+Income statement,Net Revenue,2021,21940.0,EUR mn,19
+Income statement,Net Revenue,2022,26850.0,EUR mn,19
+Income statement,Net Revenue,2023,28210.0,EUR mn,19
+Income statement,Net Revenue,2024,27640.0,EUR mn,19
+Income statement,Cost of Sales,2017,-10546.0,EUR mn,21
+Income statement,Cost of Sales,2018,-10763.0,EUR mn,21
+Income statement,Cost of Sales,2019,-11362.0,EUR mn,21
+Income statement,Cost of Sales,2020,-9880.0,EUR mn,21
+Income statement,Cost of Sales,2021,-10707.0,EUR mn,21
+Income statement,Cost of Sales,2022,-14123.0,EUR mn,21
+Income statement,Cost of Sales,2023,-14697.0,EUR mn,21
+Income statement,Cost of Sales,2024,-14013.0,EUR mn,21
+Income statement,GROSS PROFIT,2017,11334.0,EUR mn,22
+Income statement,GROSS PROFIT,2018,11707.0,EUR mn,22
+Income statement,GROSS PROFIT,2019,12608.0,EUR mn,22
+Income statement,GROSS PROFIT,2020,9840.0,EUR mn,22
+Income statement,GROSS PROFIT,2021,11233.0,EUR mn,22
+Income statement,GROSS PROFIT,2022,12727.0,EUR mn,22
+Income statement,GROSS PROFIT,2023,13513.0,EUR mn,22
+Income statement,GROSS PROFIT,2024,13627.0,EUR mn,22
+Income statement,Gross Margin %,2017,0.518,ratio,23
+Income statement,Gross Margin %,2018,0.521,ratio,23
+Income statement,Gross Margin %,2019,0.526,ratio,23
+Income statement,Gross Margin %,2020,0.499,ratio,23
+Income statement,Gross Margin %,2021,0.512,ratio,23
+Income statement,Gross Margin %,2022,0.474,ratio,23
+Income statement,Gross Margin %,2023,0.479,ratio,23
+Income statement,Gross Margin %,2024,0.493,ratio,23
+Income statement,Other Income,2017,85.0,EUR mn,25
+Income statement,Other Income,2018,92.0,EUR mn,25
+Income statement,Other Income,2019,110.0,EUR mn,25
+Income statement,Other Income,2020,64.0,EUR mn,25
+Income statement,Other Income,2021,140.0,EUR mn,25
+Income statement,Other Income,2022,96.0,EUR mn,25
+Income statement,Other Income,2023,88.0,EUR mn,25
+Income statement,Other Income,2024,120.0,EUR mn,25
+Income statement,Personnel Expenses,2017,-2550.0,EUR mn,27
+Income statement,Personnel Expenses,2018,-2630.0,EUR mn,27
+Income statement,Personnel Expenses,2019,-2750.0,EUR mn,27
+Income statement,Personnel Expenses,2020,-2700.0,EUR mn,27
+Income statement,Personnel Expenses,2021,-2770.0,EUR mn,27
+Income statement,Personnel Expenses,2022,-2990.0,EUR mn,27
+Income statement,Personnel Expenses,2023,-3210.0,EUR mn,27
+Income statement,Personnel Expenses,2024,-3260.0,EUR mn,27
+Income statement,Marketing & Selling Expenses,2017,-2580.0,EUR mn,28
+Income statement,Marketing & Selling Expenses,2018,-2690.0,EUR mn,28
+Income statement,Marketing & Selling Expenses,2019,-2860.0,EUR mn,28
+Income statement,Marketing & Selling Expenses,2020,-1930.0,EUR mn,28
+Income statement,Marketing & Selling Expenses,2021,-2330.0,EUR mn,28
+Income statement,Marketing & Selling Expenses,2022,-2950.0,EUR mn,28
+Income statement,Marketing & Selling Expenses,2023,-3170.0,EUR mn,28
+Income statement,Marketing & Selling Expenses,2024,-3150.0,EUR mn,28
+Income statement,Distribution & Logistics,2017,-1350.0,EUR mn,29
+Income statement,Distribution & Logistics,2018,-1410.0,EUR mn,29
+Income statement,Distribution & Logistics,2019,-1520.0,EUR mn,29
+Income statement,Distribution & Logistics,2020,-1390.0,EUR mn,29
+Income statement,Distribution & Logistics,2021,-1560.0,EUR mn,29
+Income statement,Distribution & Logistics,2022,-2040.0,EUR mn,29
+Income statement,Distribution & Logistics,2023,-2210.0,EUR mn,29
+Income statement,Distribution & Logistics,2024,-2140.0,EUR mn,29
+Income statement,General & Administrative,2017,-680.0,EUR mn,30
+Income statement,General & Administrative,2018,-700.0,EUR mn,30
+Income statement,General & Administrative,2019,-720.0,EUR mn,30
+Income statement,General & Administrative,2020,-690.0,EUR mn,30
+Income statement,General & Administrative,2021,-730.0,EUR mn,30
+Income statement,General & Administrative,2022,-860.0,EUR mn,30
+Income statement,General & Administrative,2023,-930.0,EUR mn,30
+Income statement,General & Administrative,2024,-910.0,EUR mn,30
+Income statement,Depreciation & Amortisation,2017,-1290.0,EUR mn,31
+Income statement,Depreciation & Amortisation,2018,-1330.0,EUR mn,31
+Income statement,Depreciation & Amortisation,2019,-1580.0,EUR mn,31
+Income statement,Depreciation & Amortisation,2020,-1610.0,EUR mn,31
+Income statement,Depreciation & Amortisation,2021,-1640.0,EUR mn,31
+Income statement,Depreciation & Amortisation,2022,-1720.0,EUR mn,31
+Income statement,Depreciation & Amortisation,2023,-1830.0,EUR mn,31
+Income statement,Depreciation & Amortisation,2024,-1880.0,EUR mn,31
+Income statement,Total Operating Expenses,2017,-8450.0,EUR mn,32
+Income statement,Total Operating Expenses,2018,-8760.0,EUR mn,32
+Income statement,Total Operating Expenses,2019,-9430.0,EUR mn,32
+Income statement,Total Operating Expenses,2020,-8320.0,EUR mn,32
+Income statement,Total Operating Expenses,2021,-9030.0,EUR mn,32
+Income statement,Total Operating Expenses,2022,-10560.0,EUR mn,32
+Income statement,Total Operating Expenses,2023,-11350.0,EUR mn,32
+Income statement,Total Operating Expenses,2024,-11340.0,EUR mn,32
+Income statement,Impairment of PP&E and Goodwill,2020,-900.0,EUR mn,33
+Income statement,Impairment of PP&E and Goodwill,2023,-1050.0,EUR mn,33
+Income statement,OPERATING PROFIT (EBIT),2017,2969.0,EUR mn,34
+Income statement,OPERATING PROFIT (EBIT),2018,3039.0,EUR mn,34
+Income statement,OPERATING PROFIT (EBIT),2019,3288.0,EUR mn,34
+Income statement,OPERATING PROFIT (EBIT),2020,684.0,EUR mn,34
+Income statement,OPERATING PROFIT (EBIT),2021,2343.0,EUR mn,34
+Income statement,OPERATING PROFIT (EBIT),2022,2263.0,EUR mn,34
+Income statement,OPERATING PROFIT (EBIT),2023,1201.0,EUR mn,34
+Income statement,OPERATING PROFIT (EBIT),2024,2407.0,EUR mn,34
+Income statement,Operating Margin %,2017,0.136,ratio,35
+Income statement,Operating Margin %,2018,0.135,ratio,35
+Income statement,Operating Margin %,2019,0.13699999999999998,ratio,35
+Income statement,Operating Margin %,2020,0.035,ratio,35
+Income statement,Operating Margin %,2021,0.107,ratio,35
+Income statement,Operating Margin %,2022,0.084,ratio,35
+Income statement,Operating Margin %,2023,0.043,ratio,35
+Income statement,Operating Margin %,2024,0.087,ratio,35
+Income statement,Share of Net Profit of Associates & JVs,2017,210.0,EUR mn,37
+Income statement,Share of Net Profit of Associates & JVs,2018,225.0,EUR mn,37
+Income statement,Share of Net Profit of Associates & JVs,2019,240.0,EUR mn,37
+Income statement,Share of Net Profit of Associates & JVs,2020,40.0,EUR mn,37
+Income statement,Share of Net Profit of Associates & JVs,2021,180.0,EUR mn,37
+Income statement,Share of Net Profit of Associates & JVs,2022,230.0,EUR mn,37
+Income statement,Share of Net Profit of Associates & JVs,2023,150.0,EUR mn,37
+Income statement,Share of Net Profit of Associates & JVs,2024,205.0,EUR mn,37
+Income statement,Interest Income,2017,58.0,EUR mn,38
+Income statement,Interest Income,2018,62.0,EUR mn,38
+Income statement,Interest Income,2019,66.0,EUR mn,38
+Income statement,Interest Income,2020,48.0,EUR mn,38
+Income statement,Interest Income,2021,52.0,EUR mn,38
+Income statement,Interest Income,2022,88.0,EUR mn,38
+Income statement,Interest Income,2023,142.0,EUR mn,38
+Income statement,Interest Income,2024,156.0,EUR mn,38
+Income statement,Interest Expense,2017,-480.0,EUR mn,39
+Income statement,Interest Expense,2018,-470.0,EUR mn,39
+Income statement,Interest Expense,2019,-520.0,EUR mn,39
+Income statement,Interest Expense,2020,-515.0,EUR mn,39
+Income statement,Interest Expense,2021,-490.0,EUR mn,39
+Income statement,Interest Expense,2022,-525.0,EUR mn,39
+Income statement,Interest Expense,2023,-690.0,EUR mn,39
+Income statement,Interest Expense,2024,-760.0,EUR mn,39
+Income statement,Other Net Finance Income/(Expense),2017,-60.0,EUR mn,40
+Income statement,Other Net Finance Income/(Expense),2018,-40.0,EUR mn,40
+Income statement,Other Net Finance Income/(Expense),2019,-90.0,EUR mn,40
+Income statement,Other Net Finance Income/(Expense),2020,-60.0,EUR mn,40
+Income statement,Other Net Finance Income/(Expense),2021,-150.0,EUR mn,40
+Income statement,Other Net Finance Income/(Expense),2022,-420.0,EUR mn,40
+Income statement,Other Net Finance Income/(Expense),2023,-610.0,EUR mn,40
+Income statement,Other Net Finance Income/(Expense),2024,-380.0,EUR mn,40
+Income statement,Income Before Taxes,2017,2697.0,EUR mn,41
+Income statement,Income Before Taxes,2018,2816.0,EUR mn,41
+Income statement,Income Before Taxes,2019,2984.0,EUR mn,41
+Income statement,Income Before Taxes,2020,197.0,EUR mn,41
+Income statement,Income Before Taxes,2021,1935.0,EUR mn,41
+Income statement,Income Before Taxes,2022,1636.0,EUR mn,41
+Income statement,Income Before Taxes,2023,193.0,EUR mn,41
+Income statement,Income Before Taxes,2024,1628.0,EUR mn,41
+Income statement,Income Tax Expense,2017,-715.0,EUR mn,42
+Income statement,Income Tax Expense,2018,-738.0,EUR mn,42
+Income statement,Income Tax Expense,2019,-770.0,EUR mn,42
+Income statement,Income Tax Expense,2020,-272.0,EUR mn,42
+Income statement,Income Tax Expense,2021,-524.0,EUR mn,42
+Income statement,Income Tax Expense,2022,-466.0,EUR mn,42
+Income statement,Income Tax Expense,2023,-91.0,EUR mn,42
+Income statement,Income Tax Expense,2024,-449.0,EUR mn,42
+Income statement,Effective Tax Rate %,2017,0.265,ratio,43
+Income statement,Effective Tax Rate %,2018,0.262,ratio,43
+Income statement,Effective Tax Rate %,2019,0.258,ratio,43
+Income statement,Effective Tax Rate %,2020,1.381,ratio,43
+Income statement,Effective Tax Rate %,2021,0.271,ratio,43
+Income statement,Effective Tax Rate %,2022,0.285,ratio,43
+Income statement,Effective Tax Rate %,2023,0.47200000000000003,ratio,43
+Income statement,Effective Tax Rate %,2024,0.276,ratio,43
+Income statement,Net Income from Continuing Ops.,2017,1982.0,EUR mn,44
+Income statement,Net Income from Continuing Ops.,2018,2078.0,EUR mn,44
+Income statement,Net Income from Continuing Ops.,2019,2214.0,EUR mn,44
+Income statement,Net Income from Continuing Ops.,2020,-75.0,EUR mn,44
+Income statement,Net Income from Continuing Ops.,2021,1411.0,EUR mn,44
+Income statement,Net Income from Continuing Ops.,2022,1170.0,EUR mn,44
+Income statement,Net Income from Continuing Ops.,2023,102.0,EUR mn,44
+Income statement,Net Income from Continuing Ops.,2024,1179.0,EUR mn,44
+Income statement,Net Income from Disc. Operations,2022,85.0,EUR mn,45
+Income statement,Net Income from Disc. Operations,2023,-310.0,EUR mn,45
+Income statement,Net Income (Total),2017,1982.0,EUR mn,46
+Income statement,Net Income (Total),2018,2078.0,EUR mn,46
+Income statement,Net Income (Total),2019,2214.0,EUR mn,46
+Income statement,Net Income (Total),2020,-75.0,EUR mn,46
+Income statement,Net Income (Total),2021,1411.0,EUR mn,46
+Income statement,Net Income (Total),2022,1255.0,EUR mn,46
+Income statement,Net Income (Total),2023,-208.0,EUR mn,46
+Income statement,Net Income (Total),2024,1179.0,EUR mn,46
+Income statement,Less: Minority Interest,2017,-195.0,EUR mn,47
+Income statement,Less: Minority Interest,2018,-210.0,EUR mn,47
+Income statement,Less: Minority Interest,2019,-225.0,EUR mn,47
+Income statement,Less: Minority Interest,2020,-120.0,EUR mn,47
+Income statement,Less: Minority Interest,2021,-185.0,EUR mn,47
+Income statement,Less: Minority Interest,2022,-240.0,EUR mn,47
+Income statement,Less: Minority Interest,2023,-205.0,EUR mn,47
+Income statement,Less: Minority Interest,2024,-230.0,EUR mn,47
+Income statement,NET INCOME ATTRIB. TO SHAREHOLDERS,2017,1787.0,EUR mn,48
+Income statement,NET INCOME ATTRIB. TO SHAREHOLDERS,2018,1868.0,EUR mn,48
+Income statement,NET INCOME ATTRIB. TO SHAREHOLDERS,2019,1989.0,EUR mn,48
+Income statement,NET INCOME ATTRIB. TO SHAREHOLDERS,2020,-195.0,EUR mn,48
+Income statement,NET INCOME ATTRIB. TO SHAREHOLDERS,2021,1226.0,EUR mn,48
+Income statement,NET INCOME ATTRIB. TO SHAREHOLDERS,2022,1015.0,EUR mn,48
+Income statement,NET INCOME ATTRIB. TO SHAREHOLDERS,2023,-413.0,EUR mn,48
+Income statement,NET INCOME ATTRIB. TO SHAREHOLDERS,2024,949.0,EUR mn,48
+Income statement,Basic EPS,2017,3.1,per share / mn shares,50
+Income statement,Basic EPS,2018,3.25,per share / mn shares,50
+Income statement,Basic EPS,2019,3.46,per share / mn shares,50
+Income statement,Basic EPS,2020,-0.34,per share / mn shares,50
+Income statement,Basic EPS,2021,2.13,per share / mn shares,50
+Income statement,Basic EPS,2022,1.76,per share / mn shares,50
+Income statement,Basic EPS,2023,-0.72,per share / mn shares,50
+Income statement,Basic EPS,2024,1.69,per share / mn shares,50
+Income statement,Diluted EPS,2017,3.1,per share / mn shares,51
+Income statement,Diluted EPS,2018,3.24,per share / mn shares,51
+Income statement,Diluted EPS,2019,3.45,per share / mn shares,51
+Income statement,Diluted EPS,2020,-0.34,per share / mn shares,51
+Income statement,Diluted EPS,2021,2.13,per share / mn shares,51
+Income statement,Diluted EPS,2022,1.76,per share / mn shares,51
+Income statement,Diluted EPS,2023,-0.72,per share / mn shares,51
+Income statement,Diluted EPS,2024,1.69,per share / mn shares,51
+Income statement,Wtd. Avg Shares - Basic (mn),2017,575.6,per share / mn shares,52
+Income statement,Wtd. Avg Shares - Basic (mn),2018,575.5,per share / mn shares,52
+Income statement,Wtd. Avg Shares - Basic (mn),2019,575.4,per share / mn shares,52
+Income statement,Wtd. Avg Shares - Basic (mn),2020,575.3,per share / mn shares,52
+Income statement,Wtd. Avg Shares - Basic (mn),2021,575.4,per share / mn shares,52
+Income statement,Wtd. Avg Shares - Basic (mn),2022,575.2,per share / mn shares,52
+Income statement,Wtd. Avg Shares - Basic (mn),2023,569.8,per share / mn shares,52
+Income statement,Wtd. Avg Shares - Basic (mn),2024,561.4,per share / mn shares,52
+Income statement,Wtd. Avg Shares - Diluted (mn),2017,577.0,per share / mn shares,53
+Income statement,Wtd. Avg Shares - Diluted (mn),2018,576.9,per share / mn shares,53
+Income statement,Wtd. Avg Shares - Diluted (mn),2019,576.7,per share / mn shares,53
+Income statement,Wtd. Avg Shares - Diluted (mn),2020,576.4,per share / mn shares,53
+Income statement,Wtd. Avg Shares - Diluted (mn),2021,576.5,per share / mn shares,53
+Income statement,Wtd. Avg Shares - Diluted (mn),2022,576.3,per share / mn shares,53
+Income statement,Wtd. Avg Shares - Diluted (mn),2023,570.9,per share / mn shares,53
+Income statement,Wtd. Avg Shares - Diluted (mn),2024,562.5,per share / mn shares,53
+Income statement,Dividend Per Share (DPS),2017,1.47,per share / mn shares,54
+Income statement,Dividend Per Share (DPS),2018,1.6,per share / mn shares,54
+Income statement,Dividend Per Share (DPS),2019,1.68,per share / mn shares,54
+Income statement,Dividend Per Share (DPS),2020,0.7,per share / mn shares,54
+Income statement,Dividend Per Share (DPS),2021,1.24,per share / mn shares,54
+Income statement,Dividend Per Share (DPS),2022,1.73,per share / mn shares,54
+Income statement,Dividend Per Share (DPS),2023,1.73,per share / mn shares,54
+Income statement,Dividend Per Share (DPS),2024,1.86,per share / mn shares,54
+Product,Premium,2017,7461.0,EUR mn,
+Product,Premium,2018,7909.0,EUR mn,
+Product,Premium,2019,8749.0,EUR mn,
+Product,Premium,2020,7316.0,EUR mn,
+Product,Premium,2021,8381.0,EUR mn,
+Product,Premium,2022,10552.0,EUR mn,
+Product,Premium,2023,11340.0,EUR mn,
+Product,Premium,2024,11388.0,EUR mn,
+Product,Mainstream,2017,12866.0,EUR mn,
+Product,Mainstream,2018,12876.0,EUR mn,
+Product,Mainstream,2019,13303.0,EUR mn,
+Product,Mainstream,2020,10669.0,EUR mn,
+Product,Mainstream,2021,11497.0,EUR mn,
+Product,Mainstream,2022,13613.0,EUR mn,
+Product,Mainstream,2023,13880.0,EUR mn,
+Product,Mainstream,2024,13129.0,EUR mn,
+Product,Low & No-Alc.,2017,678.0,EUR mn,
+Product,Low & No-Alc.,2018,764.0,EUR mn,
+Product,Low & No-Alc.,2019,887.0,EUR mn,
+Product,Low & No-Alc.,2020,828.0,EUR mn,
+Product,Low & No-Alc.,2021,1009.0,EUR mn,
+Product,Low & No-Alc.,2022,1369.0,EUR mn,
+Product,Low & No-Alc.,2023,1580.0,EUR mn,
+Product,Low & No-Alc.,2024,1686.0,EUR mn,
+Product,Beyond Beer (Cider/Seltzer),2017,875.0,EUR mn,
+Product,Beyond Beer (Cider/Seltzer),2018,921.0,EUR mn,
+Product,Beyond Beer (Cider/Seltzer),2019,1031.0,EUR mn,
+Product,Beyond Beer (Cider/Seltzer),2020,907.0,EUR mn,
+Product,Beyond Beer (Cider/Seltzer),2021,1053.0,EUR mn,
+Product,Beyond Beer (Cider/Seltzer),2022,1316.0,EUR mn,
+Product,Beyond Beer (Cider/Seltzer),2023,1410.0,EUR mn,
+Product,Beyond Beer (Cider/Seltzer),2024,1437.0,EUR mn,
+Brand,Heineken®,2017,4639.0,EUR mn,
+Brand,Heineken®,2018,4898.0,EUR mn,
+Brand,Heineken®,2019,5417.0,EUR mn,
+Brand,Heineken®,2020,4575.0,EUR mn,
+Brand,Heineken®,2021,5244.0,EUR mn,
+Brand,Heineken®,2022,6605.0,EUR mn,
+Brand,Amstel,2017,1335.0,EUR mn,
+Brand,Amstel,2018,1348.0,EUR mn,
+Brand,Amstel,2019,1438.0,EUR mn,
+Brand,Amstel,2020,1144.0,EUR mn,
+Brand,Amstel,2021,1273.0,EUR mn,
+Brand,Amstel,2022,1530.0,EUR mn,
+Brand,Desperados,2017,744.0,EUR mn,
+Brand,Desperados,2018,809.0,EUR mn,
+Brand,Desperados,2019,911.0,EUR mn,
+Brand,Desperados,2020,789.0,EUR mn,
+Brand,Desperados,2021,900.0,EUR mn,
+Brand,Desperados,2022,1128.0,EUR mn,
+Brand,Tiger,2017,853.0,EUR mn,
+Brand,Tiger,2018,921.0,EUR mn,
+Brand,Tiger,2019,1031.0,EUR mn,
+Brand,Tiger,2020,868.0,EUR mn,
+Brand,Tiger,2021,1031.0,EUR mn,
+Brand,Tiger,2022,1316.0,EUR mn,
+Brand,Other brands,2017,14309.0,EUR mn,
+Brand,Other brands,2018,14494.0,EUR mn,
+Brand,Other brands,2019,15173.0,EUR mn,
+Brand,Other brands,2020,12344.0,EUR mn,
+Brand,Other brands,2021,13492.0,EUR mn,
+Brand,Other brands,2022,16271.0,EUR mn,
+Channel,On-Trade,2017,9180.0,EUR mn,
+Channel,On-Trade,2018,9330.0,EUR mn,
+Channel,On-Trade,2019,9740.0,EUR mn,
+Channel,On-Trade,2020,5920.0,EUR mn,
+Channel,On-Trade,2021,7350.0,EUR mn,
+Channel,On-Trade,2022,10120.0,EUR mn,
+Channel,On-Trade,2023,10640.0,EUR mn,
+Channel,On-Trade,2024,10410.0,EUR mn,
+Channel,Off-Trade,2017,10870.0,EUR mn,
+Channel,Off-Trade,2018,11180.0,EUR mn,
+Channel,Off-Trade,2019,11890.0,EUR mn,
+Channel,Off-Trade,2020,12210.0,EUR mn,
+Channel,Off-Trade,2021,12470.0,EUR mn,
+Channel,Off-Trade,2022,13940.0,EUR mn,
+Channel,Off-Trade,2023,14560.0,EUR mn,
+Channel,Off-Trade,2024,14250.0,EUR mn,
+Channel,Digital B2B (eB2B),2017,120.0,EUR mn,
+Channel,Digital B2B (eB2B),2018,210.0,EUR mn,
+Channel,Digital B2B (eB2B),2019,380.0,EUR mn,
+Channel,Digital B2B (eB2B),2020,640.0,EUR mn,
+Channel,Digital B2B (eB2B),2021,930.0,EUR mn,
+Channel,Digital B2B (eB2B),2022,1290.0,EUR mn,
+Channel,Digital B2B (eB2B),2023,1610.0,EUR mn,
+Channel,Digital B2B (eB2B),2024,1820.0,EUR mn,
+Channel,Export & Other,2017,1710.0,EUR mn,
+Channel,Export & Other,2018,1750.0,EUR mn,
+Channel,Export & Other,2019,1960.0,EUR mn,
+Channel,Export & Other,2020,950.0,EUR mn,
+Channel,Export & Other,2021,1190.0,EUR mn,
+Channel,Export & Other,2022,1500.0,EUR mn,
+Channel,Export & Other,2023,1400.0,EUR mn,
+Channel,Export & Other,2024,1160.0,EUR mn,
+Region restated,AMEE,2017,3881.8,EUR mn,
+Region restated,AMEE,2018,4000.2,EUR mn,
+Region restated,AMEE,2019,4281.4,EUR mn,
+Region restated,AMEE,2020,3313.0,EUR mn,
+Region restated,AMEE,2021,3883.0,EUR mn,
+Region restated,AMEE,2022,4564.0,EUR mn,
+Region restated,AMEE,2023,4232.0,EUR mn,
+Region restated,AMEE,2024,3593.0,EUR mn,
+Region restated,Americas,2017,5645.0,EUR mn,
+Region restated,Americas,2018,5820.0,EUR mn,
+Region restated,Americas,2019,6232.0,EUR mn,
+Region restated,Americas,2020,5068.0,EUR mn,
+Region restated,Americas,2021,5770.0,EUR mn,
+Region restated,Americas,2022,7303.0,EUR mn,
+Region restated,Americas,2023,7786.0,EUR mn,
+Region restated,Americas,2024,7850.0,EUR mn,
+Region restated,Asia-Pacific,2017,2319.0,EUR mn,
+Region restated,Asia-Pacific,2018,2472.0,EUR mn,
+Region restated,Asia-Pacific,2019,2757.0,EUR mn,
+Region restated,Asia-Pacific,2020,2248.0,EUR mn,
+Region restated,Asia-Pacific,2021,2589.0,EUR mn,
+Region restated,Asia-Pacific,2022,3437.0,EUR mn,
+Region restated,Asia-Pacific,2023,3949.0,EUR mn,
+Region restated,Asia-Pacific,2024,4146.0,EUR mn,
+Region restated,Europe,2017,10296.2,EUR mn,
+Region restated,Europe,2018,10448.8,EUR mn,
+Region restated,Europe,2019,10987.6,EUR mn,
+Region restated,Europe,2020,9347.0,EUR mn,
+Region restated,Europe,2021,9983.0,EUR mn,
+Region restated,Europe,2022,11868.0,EUR mn,
+Region restated,Europe,2023,12582.0,EUR mn,
+Region restated,Europe,2024,12383.0,EUR mn,
+Region restated,Head Office & Eliminations,2017,-262.0,EUR mn,
+Region restated,Head Office & Eliminations,2018,-271.0,EUR mn,
+Region restated,Head Office & Eliminations,2019,-288.0,EUR mn,
+Region restated,Head Office & Eliminations,2020,-256.0,EUR mn,
+Region restated,Head Office & Eliminations,2021,-285.0,EUR mn,
+Region restated,Head Office & Eliminations,2022,-322.0,EUR mn,
+Region restated,Head Office & Eliminations,2023,-339.0,EUR mn,
+Region restated,Head Office & Eliminations,2024,-332.0,EUR mn,
+OPEX detail,Personnel expenses,2017,2550.0,EUR mn,
+OPEX detail,Personnel expenses,2018,2630.0,EUR mn,
+OPEX detail,Personnel expenses,2019,2750.0,EUR mn,
+OPEX detail,Personnel expenses,2020,2700.0,EUR mn,
+OPEX detail,Personnel expenses,2021,2770.0,EUR mn,
+OPEX detail,Personnel expenses,2022,2990.0,EUR mn,
+OPEX detail,Personnel expenses,2023,3210.0,EUR mn,
+OPEX detail,Personnel expenses,2024,3260.0,EUR mn,
+OPEX detail,Marketing and selling,2017,2580.0,EUR mn,
+OPEX detail,Marketing and selling,2018,2690.0,EUR mn,
+OPEX detail,Marketing and selling,2019,2860.0,EUR mn,
+OPEX detail,Marketing and selling,2020,1930.0,EUR mn,
+OPEX detail,Marketing and selling,2021,2330.0,EUR mn,
+OPEX detail,Marketing and selling,2022,2950.0,EUR mn,
+OPEX detail,Marketing and selling,2023,3170.0,EUR mn,
+OPEX detail,Marketing and selling,2024,3150.0,EUR mn,
+OPEX detail,Distribution and logistics,2017,1350.0,EUR mn,
+OPEX detail,Distribution and logistics,2018,1410.0,EUR mn,
+OPEX detail,Distribution and logistics,2019,1520.0,EUR mn,
+OPEX detail,Distribution and logistics,2020,1390.0,EUR mn,
+OPEX detail,Distribution and logistics,2021,1560.0,EUR mn,
+OPEX detail,Distribution and logistics,2022,2040.0,EUR mn,
+OPEX detail,Distribution and logistics,2023,2210.0,EUR mn,
+OPEX detail,Distribution and logistics,2024,2140.0,EUR mn,
+OPEX detail,General and administrative,2017,680.0,EUR mn,
+OPEX detail,General and administrative,2018,700.0,EUR mn,
+OPEX detail,General and administrative,2019,720.0,EUR mn,
+OPEX detail,General and administrative,2020,690.0,EUR mn,
+OPEX detail,General and administrative,2021,730.0,EUR mn,
+OPEX detail,General and administrative,2022,860.0,EUR mn,
+OPEX detail,General and administrative,2023,930.0,EUR mn,
+OPEX detail,General and administrative,2024,910.0,EUR mn,
+OPEX detail,Depreciation and amortization,2017,1290.0,EUR mn,
+OPEX detail,Depreciation and amortization,2018,1330.0,EUR mn,
+OPEX detail,Depreciation and amortization,2019,1580.0,EUR mn,
+OPEX detail,Depreciation and amortization,2020,1610.0,EUR mn,
+OPEX detail,Depreciation and amortization,2021,1640.0,EUR mn,
+OPEX detail,Depreciation and amortization,2022,1720.0,EUR mn,
+OPEX detail,Depreciation and amortization,2023,1830.0,EUR mn,
+OPEX detail,Depreciation and amortization,2024,1880.0,EUR mn,
+OPEX detail,Impairment of PP&E and goodwill,2020,900.0,EUR mn,
+OPEX detail,Impairment of PP&E and goodwill,2023,1050.0,EUR mn,
+Operations,Beer volume (mn hl),2017,218.0,mn hl,25
+Operations,Employees (FTE),2017,80120.0,people,24
+Operations,Net revenue per hl,2017,100.36697247706422,EUR/hl,26
+Operations,Net revenue per employee,2017,273090.36445332004,EUR/employee,27
+Operations,Beer volume (mn hl),2018,233.6,mn hl,25
+Operations,Employees (FTE),2018,85610.0,people,24
+Operations,Net revenue per hl,2018,96.19006849315069,EUR/hl,26
+Operations,Net revenue per employee,2018,262469.3376941946,EUR/employee,27
+Operations,Beer volume (mn hl),2019,241.4,mn hl,25
+Operations,Employees (FTE),2019,85900.0,people,24
+Operations,Net revenue per hl,2019,99.29577464788733,EUR/hl,26
+Operations,Net revenue per employee,2019,279045.4016298021,EUR/employee,27
+Operations,Beer volume (mn hl),2020,222.3,mn hl,25
+Operations,Employees (FTE),2020,84390.0,people,24
+Operations,Net revenue per hl,2020,88.7089518668466,EUR/hl,26
+Operations,Net revenue per employee,2020,233676.97594501718,EUR/employee,27
+Operations,Beer volume (mn hl),2021,232.1,mn hl,25
+Operations,Employees (FTE),2021,82330.0,people,24
+Operations,Net revenue per hl,2021,94.52822059457131,EUR/hl,26
+Operations,Net revenue per employee,2021,266488.5218025021,EUR/employee,27
+Operations,Beer volume (mn hl),2022,240.5,mn hl,25
+Operations,Employees (FTE),2022,85240.0,people,24
+Operations,Net revenue per hl,2022,111.64241164241164,EUR/hl,26
+Operations,Net revenue per employee,2022,314992.9610511497,EUR/employee,27
+Operations,Beer volume (mn hl),2023,230.8,mn hl,25
+Operations,Employees (FTE),2023,89730.0,people,24
+Operations,Net revenue per hl,2023,122.22703639514731,EUR/hl,26
+Operations,Net revenue per employee,2023,314387.6072662432,EUR/employee,27
+Operations,Beer volume (mn hl),2024,226.4,mn hl,25
+Operations,Employees (FTE),2024,87010.0,people,24
+Operations,Net revenue per hl,2024,122.08480565371025,EUR/hl,26
+Operations,Net revenue per employee,2024,317664.6362487071,EUR/employee,27
